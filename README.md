@@ -18,13 +18,12 @@ print("1. Primero, Seleccionamos la pagina donde alojara nuestro Scrip para ello
 ```html
 <h5>Segundo. aplicamos el scrip y hacemos un cluster con atlas para permitir el direccionamiento remoto que existe estas tecnologias y la manera de hacerlo es con el usuario y contraseña generada por atlas por lo tanto esto nos permite mayor control de nuestros archivos remotamente desde cualquier lugar del globo terraqueo </h5>
 ```
-![Imagen ejercicio 2](img/mongopythonws.png)
 
 ```c++
 #include <iostream>
 int main () 
 {
-    std::cout << "Tercero. Añadimos una biblioteca(choice) para generar la aletoriedad de las listas y usamos una concatenación de numeros random con ""str"" para generar un valor de 10 digitos.";
+    std::cout << "Añadimos dicha conexion con atlas.";
     return 0;
 }
 ```
