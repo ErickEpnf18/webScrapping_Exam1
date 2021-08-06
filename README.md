@@ -42,7 +42,7 @@ int main ()
 </HTML>
 ```
 ![Imagen ejercicio](img/mongobasews.png)
-
+<!-- /*
 ```php
 
 <?php
@@ -51,4 +51,5 @@ echo "Existe algo curioso, que cuando se invirtio mucho tiempo en el Scrapeo de 
 
 ?>
 ```
+*/-->
 :racehorse:
